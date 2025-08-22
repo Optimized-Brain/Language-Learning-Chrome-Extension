@@ -6,6 +6,12 @@ Learn vocabulary by replacing words on webpages with their equivalents in your t
 
 The Dynamic Language Immersion extension is a tool designed to help you expand your foreign language vocabulary naturally while browsing the web. It works by identifying words on a webpage and, based on your configured settings, replaces a percentage of those words with their translations in your target language. This provides an immersive learning experience, exposing you to new words in context.
 
+
+<p align="center">
+  <a href="https://img.shields.io/chrome-web-store/v/your-id"><img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome"></a>
+  <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="PRs Welcome"></a>
+</p>
+
 ## Features
 
 *   **Configurable Immersion Rate:** Control the percentage of words replaced on a page to adjust the intensity of the immersion.
